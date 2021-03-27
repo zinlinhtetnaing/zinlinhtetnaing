@@ -34,7 +34,10 @@ Hi, I'm [Zin Lin Htet Naing](https://zinlinhtetnaing.github.io/), a iOS Develope
  ** Swift  <br/>
  ** SwiftUI <br/>
  ** Flutter
-
+ 
+ # iOS Projects 🚀
+ * Mobile Banking Project
+ 
 ### Tools
 
 **Software Development:**
@@ -46,3 +49,9 @@ Hi, I'm [Zin Lin Htet Naing](https://zinlinhtetnaing.github.io/), a iOS Develope
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/zinlinhtetnaing)](https://github.com/zinlinhtetnaing)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/zinlinhtetnaing)](https://github.com/zinlinhtetnaing)
 <br/>
+
+## Github Stats
+
+[![Ben's github stats](https://github-readme-stats.vercel.app/api?username=zinlinhtetnaing)](https://github.com/zinlinhtetnaing/github-readme-stats)
+
+
