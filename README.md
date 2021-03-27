@@ -20,7 +20,7 @@
 
 Hi, I'm [Zin Lin Htet Naing](https://zinlinhtetnaing.github.io/), a iOS Developer  🇲🇲 from Myanmar
 
-  <img align="right" alt="GIF" src="https://github.com/zinlinhtetnaing/zinlinhtetnaing/blob/main/Source/image.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/zinlinhtetnaing/zinlinhtetnaing/blob/main/Source/image.gif?raw=true" width="500" height="420" />
 
 **Talking about Personal Stuffs:**
 
