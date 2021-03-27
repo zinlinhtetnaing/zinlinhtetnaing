@@ -53,6 +53,6 @@ Hi, I'm [Zin Lin Htet Naing](https://zinlinhtetnaing.github.io/), a iOS Develope
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=zinlinhtetnaing&show_icons=true&count_private=true)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=zinlinhtetnaing)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=zinlinhtetnaing&hide=javascript,html)
 
 
