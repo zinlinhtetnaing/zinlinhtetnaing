@@ -50,5 +50,6 @@ Hi, I'm [Zin Lin Htet Naing](https://zinlinhtetnaing.github.io/), a iOS Develope
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/zinlinhtetnaing)](https://github.com/zinlinhtetnaing)
 <br/>
 
+
 ### Github stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=zinlinhtetnaing&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=zinlinhtetnaing&theme=vue&show_icons=true&count_private=true)
