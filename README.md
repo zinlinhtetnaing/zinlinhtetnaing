@@ -37,10 +37,10 @@ Hi, I'm [Zin Lin Htet Naing](https://zinlinhtetnaing.github.io/), a iOS Develope
 
 🚧 **My Todo Stats:**
 <!-- TODO-IST:START -->
-✅  Completed 14 live projects
-✅  Completed 5 live Projects (⚡️ iOS Team Leader)
-✅  Completed 4 Personal iOS Projects
-✅  Completed 1 project Using SwiftUI
+✅  Completed 14 live projects <br/>
+✅  Completed 5 live Projects (⚡️ iOS Team Leader) <br/>
+✅  Completed 4 Personal iOS Projects <br/>
+✅  Completed 1 project Using SwiftUI <br/>
 ✅  Completed 1 project for using Apple Watch
 <!-- TODO-IST:END -->
 
