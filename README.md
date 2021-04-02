@@ -30,14 +30,21 @@ Hi, I'm [Zin Lin Htet Naing](https://zinlinhtetnaing.github.io/), a iOS Develope
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@zinlinhtetnaing](https://www.instagram.com/dev.zinlinhtetnaing/);
 
-**Languages :**  
+**Languages:**  
  * Swift  <br/>
  * SwiftUI <br/>
  * Flutter
- 
-### iOS Projects 🚀
- * Mobile Banking Project
- 
+
+🚧 **My Todo Stats:**
+<!-- TODO-IST:START -->
+✅  Completed 14 live projects
+✅  Completed 5 live Projects (⚡️ iOS Team Leader)
+✅  Completed 4 Personal iOS Projects
+✅  Completed 1 project Using SwiftUI
+✅  Completed 1 project for using Apple Watch
+<!-- TODO-IST:END -->
+
+
 ### Tools
 
 **Software Development:**
@@ -53,6 +60,3 @@ Hi, I'm [Zin Lin Htet Naing](https://zinlinhtetnaing.github.io/), a iOS Develope
 
 ### Github stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=zinlinhtetnaing&theme=vue&show_icons=true&count_private=true)
-
-### Top Languages
-![Most Used Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zinlinhtetnaing&layout=compact&theme=vue)
