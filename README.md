@@ -18,7 +18,7 @@
 <br/>
 <br/>
 
-Hi, I'm [Zin Lin Htet Naing](https://zinlinhtetnaing.github.io/), a iOS Developer  🇲🇲 from Myanmar
+Hi, I'm [Zin Lin Htet Naing](https://www.flowcode.com/page/zinlinhtetnaing), a iOS Developer  🇲🇲 from Myanmar
 
   <img align="right" alt="GIF" src="https://github.com/zinlinhtetnaing/zinlinhtetnaing/blob/main/Source/image.gif?raw=true" width="300" height="300" />
 
@@ -38,10 +38,10 @@ Hi, I'm [Zin Lin Htet Naing](https://zinlinhtetnaing.github.io/), a iOS Develope
 🚧 **My Todo Stats:**
 <!-- TODO-IST:START -->
 ✅  Completed 14 live projects <br/>
-✅  Completed 5 live Projects (⚡️ iOS Team Leader) <br/>
-✅  Completed 4 Personal iOS Projects <br/>
+✅  Completed 5 live projects (⚡️ iOS Team Leader) <br/>
+✅  Completed 4 Personal iOS projects <br/>
 ✅  Completed 1 project Using SwiftUI <br/>
-✅  Completed 1 project for using Apple Watch
+✅  Completed 1 watchOS project
 <!-- TODO-IST:END -->
 
 
