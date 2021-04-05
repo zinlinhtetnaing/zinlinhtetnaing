@@ -44,6 +44,7 @@ Hi, I'm [Zin Lin Htet Naing](https://www.flowcode.com/page/zinlinhtetnaing), a i
 ✅  Completed 1 watchOS project
 <!-- TODO-IST:END -->
 
+<hr>
 
 ### Tools
 
@@ -57,6 +58,7 @@ Hi, I'm [Zin Lin Htet Naing](https://www.flowcode.com/page/zinlinhtetnaing), a i
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/zinlinhtetnaing)](https://github.com/zinlinhtetnaing)
 <br/>
 
+<hr>
 
 ### Github stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=zinlinhtetnaing&theme=vue&show_icons=true&count_private=true)
