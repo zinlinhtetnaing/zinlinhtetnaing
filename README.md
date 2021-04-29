@@ -61,5 +61,5 @@ Hi, I'm [Zin Lin Htet Naing](https://www.flowcode.com/page/zinlinhtetnaing), a i
 <hr>
 
 ### Github stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=zinlinhtetnaing&theme=vue&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=zinlinhtetnaing&show_icons=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zinlinhtetnaing&exclude_repo=github-readme-stats,zinlinhtetnaing.github.io&count_private=true&hide=c)](https://github.com/zinlinhtetnaing)
