@@ -31,6 +31,20 @@
     .button {
         width: 100%;
     }
+    .container {
+        width: 100%;
+        padding: 0;
+    }
+    .column,
+    .columns {
+        margin-left: 0;
+        margin-bottom: 10%;
+    }
+    .column:first-child,
+    .columns:first-child {
+        margin-left: 0;
+        margin-bottom: 10%;
+    }
 }
 
 
