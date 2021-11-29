@@ -25,6 +25,29 @@
 }
 
 
+/* Portrait and Landscape */
+
+@media only screen and (min-device-width: 375px) and (max-device-width: 812px) and (-webkit-min-device-pixel-ratio: 3) {
+    .button {
+        width: 85%;
+    }
+    .container {
+        width: 85%;
+        padding: 0;
+    }
+    .column,
+    .columns {
+        margin-left: 0;
+        margin-bottom: 10%;
+    }
+    .column:first-child,
+    .columns:first-child {
+        margin-left: 0;
+        margin-bottom: 10%;
+    }
+}
+
+
 /*===== For devices larger than 400px =====*/
 
 @media (min-width: 400px) {
