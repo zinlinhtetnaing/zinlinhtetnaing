@@ -28,9 +28,22 @@
 /*===== For devices larger than 400px =====*/
 
 @media (min-width: 400px) {
+    .button {
+        width: 70%;
+    }
     .container {
         width: 85%;
         padding: 0;
+    }
+    .column,
+    .columns {
+        margin-left: 0;
+        margin-bottom: 10%;
+    }
+    .column:first-child,
+    .columns:first-child {
+        margin-left: 0;
+        margin-bottom: 10%;
     }
 }
 
@@ -40,6 +53,9 @@
 @media (min-width: 550px) {
     .container {
         width: 80%;
+    }
+    .button {
+        width: 50%;
     }
     .column,
     .columns {
@@ -267,7 +283,6 @@ ol {
     text-align: center;
     vertical-align: middle;
     font-size: 15px;
-    width: 50%;
     font-weight: 500;
     line-height: 58px;
     letter-spacing: 1px;
