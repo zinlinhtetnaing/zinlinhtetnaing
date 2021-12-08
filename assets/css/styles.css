@@ -452,6 +452,19 @@ ol {
     filter: brightness(90%)
 }
 
+.button-app {
+    text-decoration: none;
+    color: #24292e
+}
+
+.button-app:hover {
+    color: var(--secondary-color);
+}
+
+.button-app:focus {
+    filter: brightness(90%)
+}
+
 
 /*===== Theme Switch =====*/
 
@@ -527,4 +540,68 @@ li {
 li:hover {
     color: #EEEEEE;
     background-color: #000000;
+}
+
+.projects-container {
+    width: 100%;
+    height: 100%;
+    margin: 50px auto;
+    padding: 0 50px;
+}
+
+table {
+    width: 100%;
+}
+
+td {
+    height: 80px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+table tr {
+    background-color: #ffffff;
+}
+
+
+/* table tr:hover {
+    background-color: #EEEEEE;
+} */
+
+.borderless th {
+    border: none;
+}
+
+.table thead tr {
+    background-color: var(--primary-color);
+    color: var(--primary-background);
+    height: 46px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+th:first-child {
+    border-radius: 40px 0 0 40px;
+}
+
+th:last-child {
+    border-radius: 0 40px 40px 0;
+}
+
+
+/* Apps */
+
+h1.projects-title {
+    font-weight: 700;
+    font-size: 55px;
+    color: #4A4949;
+}
+
+
+/* Ad Hoc distribution for iOS */
+
+p.projects-description {
+    font-weight: 500;
+    font-size: 13px;
+    color: #4A4949;
 }
