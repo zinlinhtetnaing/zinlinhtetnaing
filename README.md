@@ -27,13 +27,9 @@
 * JavaScript <br/>
 * UIUX Design
 
-<hr>
-
 **Frameworks:**  
 * SwiftUI <br/>
 * Flutter 
-
-<hr>
 
 ### Tools
 
