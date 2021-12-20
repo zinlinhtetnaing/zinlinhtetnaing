@@ -20,12 +20,19 @@
 
 ## Hi, I'm [Zin Lin Htet Naing](https://zinlinhtetnaing.github.io/zinlinhtetnaing), a iOS Developer
 
-**Skills:**  
- * Swift  <br/>
- * SwiftUI <br/>
- * Flutter <br/>
- * UIUX Design <br/>
- * HTML, CSS, JavaScript
+**Languages:**  
+* Swift <br/>
+* HTML <br/>
+* CSS <br/>
+* JavaScript <br/>
+* UIUX Design
+
+<hr>
+
+**Frameworks:**  
+* SwiftUI <br/>
+* Flutter 
+
 <hr>
 
 ### Tools
