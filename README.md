@@ -62,4 +62,4 @@
 
 ### Github stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=zinlinhtetnaing&show_icons=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zinlinhtetnaing&langs_count=10&exclude_repo=github-readme-stats,zinlinhtetnaing.github.io&count_private=true&hide=c)](https://github.com/zinlinhtetnaing)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zinlinhtetnaing&langs_count=10&exclude_repo=github-readme-stats,zinlinhtetnaing.github.io&count_private=true&hide=c&layout=compact)](https://github.com/zinlinhtetnaing)
