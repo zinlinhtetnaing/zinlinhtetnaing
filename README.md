@@ -18,32 +18,14 @@
 <br/>
 <br/>
 
-## Hi, I'm [Zin Lin Htet Naing](https://zinlinhtetnaing.github.io/zinlinhtetnaing), a iOS Developer  🇲🇲 from Myanmar
-
-  <img align="right" alt="GIF" src="https://github.com/zinlinhtetnaing/zinlinhtetnaing/blob/main/assets/images/image.gif?raw=true" width="300" height="300" />
+## Hi, I'm [Zin Lin Htet Naing](https://zinlinhtetnaing.github.io/zinlinhtetnaing), a iOS Developer
 
 **Talking about Personal Stuffs:**
-
-- 🔭 I’m currently working on client Project;
-- 🌱 I’m currently learning SwiftUI;
-- 🌱 I’m currently learning Flutter;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@zinlinhtetnaing](https://www.instagram.com/dev.zinlinhtetnaing/);
 
 **Languages:**  
  * Swift  <br/>
  * SwiftUI <br/>
- * Flutter
-
-🚧 **My Todo Stats:**
-<!-- TODO-IST:START -->
-✅  Completed 14 live projects <br/>
-✅  Completed 5 live projects (⚡️ iOS Team Leader) <br/>
-✅  Completed 4 Personal iOS projects <br/>
-✅  Completed 1 project Using SwiftUI <br/>
-✅  Completed 1 watchOS project
-<!-- TODO-IST:END -->
-
+ * Flutter <br/>
 <hr>
 
 ### Tools
