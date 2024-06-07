@@ -1,1 +1,1 @@
-## I'm [Zin Lin Htet Naing](https://zinlinhtetnaing.github.io/zinlinhtetnaing), a iOS Developer
+## I'm not a great programmer; I'm just a good [programmer](https://zinlinhtetnaing.github.io/zinlinhtetnaing) with great habits.
